@@ -6,7 +6,7 @@ An intelligent chatbot powered by Natural Language Processing (NLP) and Machine 
 - Intent Recognition: Understands user input and classifies it into predefined categories.
 - Customizable Responses: Easily extend the chatbot by adding new intents and responses.
 - Real-Time Interaction: Provides instant responses to user queries.
-- Scalable Model: Trainable with additional data for broader application domains.
+- Scalable Model: Trainable with additional data for broader application domains. 
 
 ## Usecases:
 1. Customer Support: Handle FAQs, guide users, and reduce workload for support teams.
